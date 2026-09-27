@@ -1,0 +1,21 @@
+body{background-color: rgb(10, 39, 201);}
+.one{
+    background-color: red; color: white; width: 25%;
+ padding: 10px 0px 10px 5px;
+ margin: 5px 30px 10px 600px ;
+ text-align: center;
+}
+.two{ background-color: black; color: rgb(255, 255, 255);  ;
+
+}
+.three{
+    background-color: black; color: white;
+}
+.four{ background-color: black; color: white;
+
+}
+.five{background-color: black; color: white;}
+.six{background-color: black; color: white;}
+.seven{background-color:black; color: white;}
+.eight{background-color: black; color: white;}
+.nine{background-color: rgb(164, 167, 160); color: white;}
